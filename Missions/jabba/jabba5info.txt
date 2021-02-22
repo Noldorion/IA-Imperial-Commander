@@ -1,0 +1,14 @@
+<b>Special Setup:</b>
+Place 5 instead of 3 neutral mission tokens on each of the blue points. When a spice barrel is dropped on a stockpile, that player claims the spice barrel.
+
+<b>Rebel Objective:</b>
+Claim more spice barrels than the Imperial AI.
+
+<b>Imperial Objective:</b>
+Claim more spice barrels than the Rebels.
+
+<b>At the end of round 2:</b>
+Resolve the event <color="red">Unleashed.</color>
+
+<b>At the end of round 4:</b>
+Resolve the event <color="red">Hired Muscle.</color>
