@@ -1,0 +1,23 @@
+<b>Information:</b>
+Refer to the mission rules for instructions for the "Rodian pirates".
+
+<b>Repositioning Target:</b>
+Block access to the supply crates.
+
+<b>Rebel Victory:</b>
+When there are no Rodian pirates on the pirate camp.
+
+<b>Imperial Victory:</b>
+End of round 6, or all heroes are wounded.
+
+<b>At the end of round 2:</b>
+Event <color="red">From the Forest</color>
+
+<b>When the first supply cache is claimed:</b>
+Event <color="red">Tracking Beacon</color>
+
+<b>Hero negotiates with Jabba the Hutt:When the third supply cache is claimed:</b>
+Event <color="red">Still Tracking</color>
+
+<b>When all supply caches are claimed:</b>
+Event <color="red">We've Got Company</color>

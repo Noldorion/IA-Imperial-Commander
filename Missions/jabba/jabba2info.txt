@@ -1,0 +1,20 @@
+<b>Information:</b>
+Ignore the first bullet point of the Mission Briefing. Figures without "Mobile" can be deployed to the Khetanna.
+
+<b>Repositioning Target:</b>
+Block access to the engine.
+
+<b>Rebel Victory:</b>
+There are no Imperial figures on the Spaceport after resolving the event <color="red">Captain‘s Orders</color>.
+
+<b>Imperial Victory:</b>
+End of round 7, or all heroes are wounded.
+
+<b>At the end of round 1:</b>
+Event <color="red">Boarding Party</color>
+
+<b>At the end of the round in which the engine is destroyed:</b>
+Event <color="red">High Ground</color>
+
+<b>When the door is opened:</b>
+Event <color="red">Captain's Orders</color> (see rules)

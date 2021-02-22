@@ -1,0 +1,14 @@
+<b>Information:</b>
+Refer to the mission rules for instructions for Kallenn.
+
+<b>Rebel Victory:</b>
+<color="red">Kallenn</color> is defeated and both power cells are destroyed.
+
+<b>Imperial Victory:</b>
+End of round 6, or all heroes are wounded.
+
+<b>At the end of rounds 1, 3 and 5:</b>
+Event <color="red">Elite Protection</color> (see mission rules)
+
+<b>When the generator is powered down:</b>
+Event <color="red">Freed From Bonds</color>

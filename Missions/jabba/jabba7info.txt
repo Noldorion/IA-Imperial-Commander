@@ -1,0 +1,16 @@
+<b>Repositioning Target:</b>
+Block access to the red terminal and the Main Gun.
+
+<b>Rebel Victory:</b>
+<color="red">Jabba the Hutt is defeated.</color>
+
+<b>Imperial Victory:</b>
+End of round 8, or all heroes are wounded.
+
+<b>At the end of round 2:</b>
+Event <color="red">Arrest</color>
+
+<b>Rebel figure interacts with the red terminal:</b>
+Event <color="red">Khetanna</color>
+
+When shooting the Main Gun, follow Target Priority. Shots from the Main Gun do not damage Imperial figures.

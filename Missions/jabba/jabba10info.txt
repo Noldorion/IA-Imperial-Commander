@@ -1,0 +1,14 @@
+<b>Repositioning Target:</b>
+Block access to the door and the terminal.
+
+<b>Rebel Victory:</b>
+The base is sabotaged.
+
+<b>Imperial Victory:</b>
+End of round 6, or all heroes are wounded.
+
+<b>When the Barricade is destroyed:</b>
+Event <color="red">Ambush</color>
+
+<b>When the door opens:</b>
+Event <color="red">The Captain's Squad</color>

@@ -1,0 +1,17 @@
+<b>Repositioning Target:</b>
+Block access to the explosives.
+
+<b>Rebel Victory:</b>
+The heroes have collectively claimed 6 explosives and have been extracted.
+
+<b>Imperial Victory:</b>
+End of round 6, or all heroes are wounded.
+
+<b>At the end of round 4:</b>
+Event <color="red">Stop the Extraction</color>
+
+<b>When the first door opens:</b>
+Event <color="red">Hired Help</color>
+
+<b>When the second door opens:</b>
+Event <color="red">Bomb Shed</color>
