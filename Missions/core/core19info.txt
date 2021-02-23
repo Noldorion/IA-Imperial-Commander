@@ -1,5 +1,5 @@
 <b>Special Rules:</b>
-When the pulse cannons fire, choose the healthy Rebel with the least remaining health within line of sight.
+When the pulse cannons fire, choose the Healthy Rebel with the least remaining Health within line of sight.
 
 <b>Repositioning Target:</b>
 Block access to the terminals and Shortatha.

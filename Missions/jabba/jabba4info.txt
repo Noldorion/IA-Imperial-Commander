@@ -2,7 +2,7 @@
 End of round 5.
 
 <b>Imperial Victory:</b>
-There are no healthy heroes on the hangar.
+There are no Healthy heroes on the hangar.
 
 <b>At the end of each round after round 1:</b>
 Move each Imperial mission token 3 toward the hangar.

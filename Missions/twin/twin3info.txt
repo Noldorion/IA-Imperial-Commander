@@ -17,4 +17,4 @@ Event <color="red">Raider Ambush</color>
 Event <color="red">Primary Function</color>
 
 <b>First time a door opens:</b>
-Event <color="red">The Commander</color>. In addition to the bonus health, <color="red">Kayn Somos</color> gains +1 <font="ImperialAssaultSymbols SDF">G</font>.
+Event <color="red">The Commander</color>. In addition to the bonus Health, <color="red">Kayn Somos</color> gains +1 <font="ImperialAssaultSymbols SDF">G</font>.

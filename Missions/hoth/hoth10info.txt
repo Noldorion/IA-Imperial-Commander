@@ -1,0 +1,12 @@
+<b>Information:</b>
+Refer to the mission rules for instructions for Imperial Officers and Stormtroopers.
+
+<b>Repositioning Target:</b>
+Imperial Officers, Stormtroopers: Move towards the prisoners.
+All others: Block access to the prisoners.
+
+<b>Rebel Victory:</b>
+End of round 6.
+
+<b>Imperial Victory:</b>
+4 prisoners are claimed.

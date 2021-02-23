@@ -1,0 +1,26 @@
+<b>Special Rules:</b>
+When the <color="red">Wampa</color> is defeated, do not mark it as defeated in the app to keep it from being redeployed. Simply set aside its figure. Ignore all further activations by that figure and proceed to the next Imperial activation.
+
+<b>Mission Target:</b>
+Echo Base Troopers
+
+<b>Repositioning Target:</b>
+Block access to the survivor.
+
+<b>Rebel Victory:</b>
+The survivor is revived.
+
+<b>Imperial Victory:</b>
+End of round 4 (if the Cavern is not revealed), or all heroes are wounded and the Echo Base Troopers are defeated.
+
+<b>At the end of round 2 and 3:</b>
+Event <color="red">Imperial Surge</color>
+
+<b>The Pass is revealed:</b>
+Event <color="red">The Pass</color>
+
+<b>The Cave is revealed:</b>
+Event <color="red">The Cave</color>
+
+<b>The Cavern is revealed:</b>
+Event <color="red">Rescue the Fallen</color>

@@ -1,0 +1,29 @@
+<b>Mission Target:</b>
+Echo Base Trooper
+
+<b>Repositioning Target:</b>
+Block access to the power stations.
+
+<b>Rebel Victory:</b>
+All Imperial figures are defeated after <color="red">Fight Them Back</color> has been resolved.
+
+<b>Imperial Victory:</b>
+All heroes are wounded.
+
+<b>At the end of round 1:</b>
+Event <color="red">A Deadly Turn</color>
+
+<b>At the end of round 3:</b>
+Event <color="red">Hopes Dashed</color>
+
+<b>At the end of round 5:</b>
+Event <color="red">Deep Freeze</color>
+
+<b>2 power stations are active:</b>
+Event <color="red">Rigged to Blow</color>. Choose the power station that has the most number of Rebel figures on and adjacent to it.
+
+<b>3 power stations are active:</b>
+Event <color="red">Final Surge</color>
+
+<b>All power stations are active:</b>
+Event <color="red">Fight Them back</color> (see mission rules)

@@ -5,4 +5,4 @@ All Imperial figures without "Non-Sentient" gain:
 <color="red">Opportune Moment:</color>
 At the end of each round:
 
-The Imperial figure closest to the captured Officer with the highest threat cost (maximum 6) that can attack attacks <<the closest healthy Rebel>>.
+The Imperial figure closest to the captured Officer with the highest threat cost (maximum 6) that can attack attacks <<the closest Healthy Rebel>>.

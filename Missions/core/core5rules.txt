@@ -5,7 +5,7 @@ At the end of each round, choose the first applicable option. The option does no
 Choose option 2. Target the crate that will affect the most Imperial figures.
 
 <b>If the <color="red">Royal Guard Champion</color> is deployed: 
-The <color="red">Royal Guard Champion</color> interrupts to perform the following instruction: Move 2 to attack <<the closest healthy Rebel>>.
+The <color="red">Royal Guard Champion</color> interrupts to perform the following instruction: Move 2 to attack <<the closest Healthy Rebel>>.
 
 <b>If a Stormtrooper group is deployed:</b>
-Each figure in the Stormtrooper group with the most figures remaining interrupts to perform the following instruction: Move 2 to attack <<the closest healthy Rebel>>.
+Each figure in the Stormtrooper group with the most figures remaining interrupts to perform the following instruction: Move 2 to attack <<the closest Healthy Rebel>>.
