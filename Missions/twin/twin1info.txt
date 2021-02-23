@@ -1,11 +1,11 @@
 <b>Information:</b>
-Refer to the mission rules for instructions for the "Tusken Raiders" on the "Narrow Path".
+Refer to the mission rules for instructions for the Tusken Raiders on the Narrow Path.
 
 <b>Repositioning Target:</b>
 Block access to the door and the terminal.
 
 <b>Rebel Victory:</b>
-Rebel figure obtains the plans.
+A Rebel figure obtains the plans.
 
 <b>Imperial Victory:</b>
 End of round 8, or all heroes are wounded and <color="red">R2-D2</color> and <color="red">C-3PO</color> are defeated.

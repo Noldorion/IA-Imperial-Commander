@@ -1,0 +1,18 @@
+<b>Repositioning Target:</b>
+Block access to power stations. 
+After all power stations have been destroyed: Block access to the entrance.
+
+<b>Rebel Victory:</b>
+All heroes depart.
+
+<b>Imperial Victory:</b>
+All heroes are wounded.
+
+<b>At the end of each round:</b>
+Event <color="red">Subdue</color> (see mission rules)
+
+<b>2 power stations are destroyed:</b>
+Event <color="red">Arrival</color>
+
+<b>At the end of round 5:</b>
+Event <color="red">Raise the Alarms</color>

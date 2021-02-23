@@ -1,0 +1,17 @@
+<b>Mission Target:</b>
+AT-ST
+
+<b>Rebel Victory:</b>
+All Imperial figures have been defeated.
+
+<b>Imperial Victory:</b>
+End of round 7, or all heroes are wounded.
+
+<b>At the end of round 1:</b>
+Event <color="red">Chaos</color>
+
+<b>When the AT-ST is defeated:</b>
+Event <color="red">Press the Advantage</color> (see mission rules)
+
+<b>At the end of round 3:</b>
+Event <color="red">Strategic Withdrawal</color> (see mission rules)

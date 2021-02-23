@@ -16,6 +16,6 @@ Event <color="red">Under Protection</color>
 <b>When the heroes slice the system:</b>
 Event <color="red">A Fateful Decision</color>
 
-<b>X</b>= Round in which the heroes shut down the defenses.
+<b>X</b> = Round in which the heroes shut down the defenses.
 
-<b>Y</b>= Round in which the heroes steal the codes.
+<b>Y</b> = Round in which the heroes steal the codes.

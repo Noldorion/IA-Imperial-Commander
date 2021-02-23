@@ -1,5 +1,5 @@
-<b>Information:</b>
-Ignore the first bullet point of the Mission Briefing. Figures without "Mobile" can be deployed to the Khetanna.
+<b>Special Rules:</b>
+Figures without "Mobile" can be deployed to the Khetanna.
 
 <b>Repositioning Target:</b>
 Block access to the engine.

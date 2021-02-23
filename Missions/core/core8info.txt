@@ -1,0 +1,23 @@
+<b>Information:</b>
+Refer to the mission rules for information about bombarding the structure.
+
+<b>Rebel Victory:</b>
+The passage is opened.
+
+<b>Imperial Victory:</b>
+End of round 7, or all heroes are wounded.
+
+<b>First time a Rebel figure enters the Corridor:</b>
+Event <color="red">Bombardment</color>
+
+<b>At the end of each round after <color="red">Bombardment</color> has been resolved:</b>
+Bombard the structure. See mission rules for specifics.
+
+<b>At the end of the round in which a Rebel figure enters the Corridor for the first time:</b>
+Event <color="red">Pursuit</color>
+
+<b>First yellow terminal is revealed:</b>
+Event <color="red">Schematics</color>
+
+<b>Second yellow terminal is revealed:</b>
+Event <color="red">Hidden Passage</color>

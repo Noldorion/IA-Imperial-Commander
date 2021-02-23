@@ -1,0 +1,21 @@
+<b>Mission Target:</b>
+<color="red">Han Solo</color>
+
+<b>Repositioning Target:</b>
+Block access to the door to the Back Room.
+After the event <color="red">Time to Run</color> is resolved, block access to the entrance.
+
+<b>Rebel Victory:</b>
+<color="red">Han Solo</color> escapes.
+
+<b>Imperial Victory:</b>
+<color="red">Han Solo</color> is defeated.
+
+<b>At the end of round 3, if door to the Back Room is closed:</b>
+Event <color="red">Daring Escape</color>
+
+<b>When the door to the Back Room opens:</b>
+Event <color="red">Strange Patrons</color>
+
+<b><color="red">Han Solo</color></b> is deployed:
+Event <color="red">Time to Run</color>. Choose option 1.

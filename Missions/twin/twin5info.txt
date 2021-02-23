@@ -1,0 +1,14 @@
+<b>Repositioning Target:</b>
+Block access to the terminals and the weapon console.
+
+<b>Rebel Victory:</b>
+The heroes depart.
+
+<b>Imperial Victory:</b>
+End of round 9, or all heroes are wounded.
+
+<b>First two doors open:</b>
+Event <color="red">Heavy Security</color>
+
+<b>When the door to the weapons console opens:</b>
+Event <color="red">Blow This Thing and Go Home</color>

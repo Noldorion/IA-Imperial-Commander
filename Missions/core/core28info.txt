@@ -1,0 +1,14 @@
+<b>Mission Target:</b>
+Supply cache
+
+<b>Rebel Victory:</b>
+End of round 5.
+
+<b>Imperial Victory:</b>
+5 supply caches are destroyed, or all heroes are wounded.
+
+<b>At the end of round 1:</b>
+Event <color="red">Leave No Survivors</color> (see mission rules)
+
+<b>At the end of round 3:</b>
+Event <color="red">Artillery Support</color> (see mission rules)

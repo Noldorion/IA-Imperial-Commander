@@ -1,0 +1,3 @@
+<b>Mission instructions (add to the top of the instruction list):</b>
+Szark gains:
+■ TRANDOSHAN TOUGHNESS: Recover 2 <font="ImperialAssaultSymbols SDF">H</font>.

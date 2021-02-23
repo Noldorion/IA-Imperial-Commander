@@ -1,5 +1,5 @@
 <b>Mission instructions (add to the top of the instruction list):</b>
-<i>Kallenn</i> gains:
+Kallenn gains:
 
 <font="ImperialAssaultSymbols SDF">A</font> Move 4 away from the <color="red>Rancor</color>.
 

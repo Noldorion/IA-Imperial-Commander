@@ -1,0 +1,17 @@
+<b>Repositioning Target:</b>
+Block access to the doors.
+
+<b>Rebel Victory:</b>
+<color="red">General Weiss</color> is defeated for a second time.
+
+<b>Imperial Victory:</b>
+End of round 8, or all heroes are wounded.
+
+<b>First time a door to the Hangar opens:</b>
+Event <color="red">Not So Fast</color>
+
+<b>General Weiss is defeated:</b>
+Event <color="red">Respite</color>
+
+<b>First time a Rebel figure enters the Clearing:</b>
+Event <color="red">The Bitter End</color>

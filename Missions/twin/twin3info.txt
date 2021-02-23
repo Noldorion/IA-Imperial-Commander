@@ -1,0 +1,20 @@
+<b>Information:</b>
+Refer to the mission rules for mission instructions for Imperial Officers and Probe Droids.
+
+<b>Repositioning Target:</b>
+Block access to the doors and the terminals.
+
+<b>Rebel Victory:</b>
+<color="red">Kayn Somos</color> is defeated.
+
+<b>Imperial Victory:</b>
+End of round 7, or all heroes are wounded.
+
+<b>At the end of round 3:</b>
+Event <color="red">Raider Ambush</color>
+
+<b>First time a Rebel figure interacts with <color="red">C-3PO</color>:</b>
+Event <color="red">Primary Function</color>
+
+<b>First time a door opens:</b>
+Event <color="red">The Commander</color>. In addition to the bonus health, <color="red">Kayn Somos</color> gains +1 <font="ImperialAssaultSymbols SDF">G</font>.

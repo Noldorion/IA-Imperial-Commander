@@ -2,7 +2,7 @@
 Block access to the red terminal and the Main Gun.
 
 <b>Rebel Victory:</b>
-<color="red">Jabba the Hutt is defeated.</color>
+<color="red">Jabba the Hutt</color> is defeated.
 
 <b>Imperial Victory:</b>
 End of round 8, or all heroes are wounded.
@@ -13,4 +13,5 @@ Event <color="red">Arrest</color>
 <b>Rebel figure interacts with the red terminal:</b>
 Event <color="red">Khetanna</color>
 
-When shooting the Main Gun, follow Target Priority. Shots from the Main Gun do not damage Imperial figures.
+<b>At the end of each round after <color="red">Khetanna</color> has been resolved:
+If the Empire controls the Main Gun, choose the space adjacent to the most Rebels to fire the gun. Shots from the Main Gun do not damage Imperial figures.

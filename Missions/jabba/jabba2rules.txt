@@ -1,2 +1,2 @@
 <b><color="red">Captain's Orders</color></b>
-Increase threat by 15 instead of 10. Perform two optional deployments instead of one. Ignore all reinforcements and new deployments made by the app for the rest of the mission (simply mark them as defeated as soon as they are deployed).
+Increase threat by 15 instead of 10. Perform optional deployments until either no threat is left or the deployment hand is empty. Ignore all reinforcements and new deployments made by the app for the rest of the mission (simply mark them as defeated as soon as they are deployed).

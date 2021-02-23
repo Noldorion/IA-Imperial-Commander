@@ -2,7 +2,7 @@
 Refer to the mission rules for instructions for Kallenn.
 
 <b>Rebel Victory:</b>
-<color="red">Kallenn</color> is defeated and both power cells are destroyed.
+Kallenn is defeated and both power cells are destroyed.
 
 <b>Imperial Victory:</b>
 End of round 6, or all heroes are wounded.

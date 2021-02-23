@@ -1,0 +1,14 @@
+<b>Repositioning Target:</b>
+Block access to the explosives.
+
+<b>Rebel Victory:</b>
+All explosives have been disarmed.
+
+<b>Imperial Victory:</b>
+End of round 5, or all heroes are wounded.
+
+<b>When the <color="red">AT-ST</color> is destroyed:</b>
+Event <color="red">Small Victory</color>
+
+<b>When 4 explosives have been disarmed:</b>
+Event <color="red">Last Stand</color> (see mission rules)
