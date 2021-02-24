@@ -1,5 +1,5 @@
 <b>Special Setup:</b>
-Do not add the <color="red">Imperial Officer</color> to the Initial groups. Instead, add him to the reserved groups.
+Do not add the <color="red">Imperial Officer</color> to the Initial Groups. Instead, add him to the reserved groups.
 Place the figure of the <color="red">Imperial Officer</color> at <b>Zaaryn's</b> position.
 
 <b>Information:>
