@@ -6,6 +6,3 @@ If the <color="red">Royal Guard Champion</color> has 6 or less Health, choose op
 If the <color="red">Royal Guard Champion</color> is within 6 spaces of a Rebel, he moves 5 to attack <<that Rebel>>.
 
 Otherwise, the <color="red">Royal Guard Champion</color> moves 5 towards the closest Rebel.
-
-<color="red">Strategic Withdrawal:</color>
-Perform as many optional deployments as possible, until there is not enough threat left or the deployment hand is empty. Ignore all figures that are deployed or reinforced later. (Mark them as defeated as soon as they are deployed by the app.)

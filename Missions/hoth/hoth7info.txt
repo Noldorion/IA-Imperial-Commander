@@ -26,4 +26,4 @@ Event <color="red">Rigged to Blow</color>. Choose the power station that has the
 Event <color="red">Final Surge</color>
 
 <b>All power stations are active:</b>
-Event <color="red">Fight Them back</color> (see mission rules)
+Event <color="red">Fight Them back</color>. Switch "Threat Gain" to off.

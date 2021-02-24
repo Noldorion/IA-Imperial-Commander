@@ -14,4 +14,4 @@ Event <color="red">Chaos</color>
 Event <color="red">Press the Advantage</color> (see mission rules)
 
 <b>At the end of round 3:</b>
-Event <color="red">Strategic Withdrawal</color> (see mission rules)
+Event <color="red">Strategic Withdrawal</color>. Switch "Threat Gain" to off.

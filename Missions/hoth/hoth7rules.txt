@@ -1,3 +1,1 @@
-<color="red">Fight Them Back</color>
-After resolving this event, perform as many optional deployments as possible until either not enough threat is left or the deployment hand is empty.
-For the rest of the mission, ignore all further delpoyments and reinforcements. (Mark them as defeated as soon as they are deployed by the app.)
+None
