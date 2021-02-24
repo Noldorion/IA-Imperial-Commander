@@ -1,4 +1,4 @@
-<color="red">Imperial Response</color>
+<color="red">Imperial Response:</color>
 Roll 1 yellow die.
 
 Accuracy 0: Choose option 1.

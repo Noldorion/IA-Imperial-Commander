@@ -5,13 +5,10 @@ Block access to the doors.
 <color="red">Darth Vader</color> is defeated.
 
 <b>Imperial Victory:</b>
-End of round 12, or all heroes are wounded.
+At the end of Round 12, or all heroes are wounded.
 
-<b>First time the first door opens:</b>
-Event <color="red">Welcoming Party</color>
+<b>First time the first door opens:</b> <color="red">Welcoming Party</color>
 
-<b>First time the second door opens:</b>
-Event <color="red">Defenses Breached</color>
+<b>First time the second door opens:</b> <color="red">Defenses Breached</color>
 
-<b>First time a door to the Command Center opens:</b>
-Event <color="red">End of the Line</color> (see mission rules)
+<b>First time a door to the Command Center opens:</b> <color="red">End of the Line</color> (see mission rules)

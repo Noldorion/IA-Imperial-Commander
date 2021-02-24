@@ -1,5 +1,5 @@
 <b>Mission Target:</b>
-Hero carrying Benex
+Hero carrying <b>Benex</b>
 
 <b>Repositioning Target:</b>
 Block access to the terminals.
@@ -8,16 +8,12 @@ Block access to the terminals.
 The heroes depart.
 
 <b>Imperial Victory:</b>
-End of round 7, or all heroes are wounded.
+At the end of Round 7, or all heroes are wounded.
 
-<b>At the end of round 1:</b>
-Event <color="red">Second Wave</color>
+<b>At the end of Round 1:</b> <color="red">Second Wave</color>
 
-<b>Each time a door opens:</b>
-Event <color="red">Varied Defenses</color> (see mission rules)
+<b>Each time a door opens:</b> <color="red">Varied Defenses</color> (see mission rules)
 
-<b>First time a door opens:</b>
-Event <color="red">Strategic Placement</color>
+<b>First time a door opens:</b> <color="red">Strategic Placement</color>
 
-<b>Door to the Interrogation Chamber opens:</b>
-Event <color="red">Enhanced Interrogation</color>.
+<b>Door to the Interrogation Chamber opens:</b> <color="red">Enhanced Interrogation</color>.

@@ -6,13 +6,10 @@ Block access to terminals, door, and the power core.
 The heroes depart.
 
 <b>Imperial Victory:</b>
-End of round 7, or all heroes are wounded.
+At the end of Round 7, or all heroes are wounded.
 
-<b>At the end of round 1:</b>
-Event <color="red">Reinforcements</color>
+<b>At the end of Round 1:</b> <color="red">Reinforcements</color>
 
-<b>First time the door is opened:</b>
-Event <color="red">Interior Guard</color>
+<b>First time the door is opened:</b> <color="red">Interior Guard</color>
 
-<b>Self-destruct is initiated:</b>
-Event <color="red">Betrayal</color>
+<b>Self-destruct is initiated:</b> <color="red">Betrayal</color>

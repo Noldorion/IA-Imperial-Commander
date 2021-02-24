@@ -8,10 +8,8 @@ Block access to the safe, the data chip, and the terminal.
 Docking codes are uploaded.
 
 <b>Imperial Victory:</b>
-End of round 6, or all heroes are wounded and <color="red">Han Solo</color> is defeated.
+At the end of Round 6, or all heroes are wounded and <color="red">Han Solo</color> is defeated.
 
-<b>At the end of round 2:</b>
-Event <color="red">On the Trail</color>
+<b>At the end of Round 2:</b> <color="red">On the Trail</color>
 
-<b>When the door to the Docking Bay opens:</b>
-Event <color="red">Final Defense</color>.
+<b>When the door to the Docking Bay opens:</b> <color="red">Final Defense</color>.

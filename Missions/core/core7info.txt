@@ -10,11 +10,8 @@ The captive escapes.
 <b>Imperial Victory:</b>
 The captive is defeated, or all heroes are wounded.
 
-<b>At the end of round 4, if the terminal has not been destroyed:</b>
-Event <color="red">Transmission Received</color>
+<b>At the end of Round 4, if the terminal has not been destroyed:</b> <color="red">Transmission Received</color>
 
-<b>First time a door to the Data Center opens:</b>
-Event <color="red">Well-Guarded</color>
+<b>First time a door to the Data Center opens:</b> <color="red">Well-Guarded</color>
 
-<b>When the door to the Cell opens:</b>
-Event <color="red">Prisoner</color>. Choose option 1.
+<b>When the door to the Cell opens:</b> <color="red">Prisoner</color>. Choose option 1.

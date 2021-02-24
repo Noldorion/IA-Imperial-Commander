@@ -7,8 +7,6 @@ Block access to the barricade and the refugees.
 <b>Imperial Victory:</b>
 All refugees are discarded.
 
-<b>At the end of rounds 2, 4, and 5:</b>
-Event <color="red">Bombardment</color> (see mission rules)
+<b>At the end of Rounds 2, 4, and 5:</b> <color="red">Bombardment</color> (see mission rules)
 
-<b>When the Barricade is destroyed:</b>
-Event <color="red">The Raid</color>
+<b>When the Barricade is destroyed:</b> <color="red">The Raid</color>

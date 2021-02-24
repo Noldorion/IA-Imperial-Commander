@@ -1,4 +1,4 @@
-<b>Mission instructions (add to the top of the instruction list):</b>
+<b>Mission instructions (add to the <color="red">top</color> of the instruction list):</b>
 All Rodian pirates gain:
 
 <font="ImperialAssaultSymbols SDF">Q</font> Move 3 to attack a Rebel.

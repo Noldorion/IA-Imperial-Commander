@@ -1,17 +1,15 @@
 <b>Special Rules:</b>
-When the pulse cannons fire, choose the Healthy Rebel with the least remaining Health within line of sight.
+When the pulse cannons fire, choose the healthy Rebel with the least remaining Health within line of sight.
 
 <b>Repositioning Target:</b>
-Block access to the terminals and Shortatha.
+Block access to the terminals and <b>Shortatha</b>.
 
 <b>Rebel Victory:</b>
-Shortatha is rescued.
+<b>Shortatha</b> is rescued.
 
 <b>Imperial Victory:</b>
-End of round 6, or all heroes are wounded.
+At the end of Round 6, or all heroes are wounded.
 
-<b>When the door opens:</b>
-Event <color="red">Prison Guards</color>
+<b>When the door opens:</b> <color="red">Prison Guards</color>
 
-<b>When 2 pulse cannons have been disabled:</b>
-Event <color="red">Divert Power</color>
+<b>When 2 pulse cannons have been disabled:</b> <color="red">Divert Power</color>

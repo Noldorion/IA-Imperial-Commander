@@ -10,5 +10,4 @@ Block access to <b>Szark</b>.
 <b>Imperial Victory:</b>
 All heroes are wounded.
 
-<b>When Jyn interacts with the comlink:</b>
-Event <color="red">The Gunfight</color>. In addition to all other modifications, Szark gains +1 <font="ImperialAssaultSymbols SDF">G</font>.
+<b>When Jyn interacts with the comlink:</b> <color="red">The Gunfight</color>. In addition to all other modifications, Szark gains +1 <font="ImperialAssaultSymbols SDF">G</font>.

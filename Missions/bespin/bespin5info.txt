@@ -5,13 +5,10 @@ Block access to the doors.
 All holocams are destroyed.
 
 <b>Imperial Victory:</b>
-End of round 7, or all heroes are wounded.
+At the end of Round 7, or all heroes are wounded.
 
-<b>At the end of round 1:</b>
-Event <color="red">Security Leader</color>
+<b>At the end of Round 1:</b> <color="red">Security Leader</color>
 
-<b>When the door to the Office opens:</b>
-Event <color="red">Security Systems</color>
+<b>When the door to the Office opens:</b> <color="red">Security Systems</color>
 
-<b>When the door to the Chamber opens:</b>
-Event <color="red">Unauthorized Access</color>
+<b>When the door to the Chamber opens:</b> <color="red">Unauthorized Access</color>

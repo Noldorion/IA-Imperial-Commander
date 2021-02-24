@@ -10,8 +10,6 @@ The Rebel carrying the dead drop escapes.
 <b>Imperial Victory:</b>
 All heroes are wounded.
 
-<b>At the end of round 3:</b>
-Event <color="red">Sith Intervention</color>. When <color="red">Darth Vader</color> moves adjacent to a door, that door is discarded.
+<b>At the end of Round 3:</b> <color="red">Sith Intervention</color>. When <color="red">Darth Vader</color> moves adjacent to a door, that door is discarded.
 
-<b>Rebel figure enters the Corridor for the first time</b>
-Event <color="red">Imperial Response</color> (see mission rules)
+<b>Rebel figure enters the Corridor for the first time</b> <color="red">Imperial Response</color> (see mission rules)

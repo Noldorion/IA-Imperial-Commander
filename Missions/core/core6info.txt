@@ -11,11 +11,8 @@ After the event <color="red">Time to Run</color> is resolved, block access to th
 <b>Imperial Victory:</b>
 <color="red">Han Solo</color> is defeated.
 
-<b>At the end of round 3, if door to the Back Room is closed:</b>
-Event <color="red">Daring Escape</color>
+<b>At the end of Round 3, if door to the Back Room is closed:</b> <color="red">Daring Escape</color>
 
-<b>When the door to the Back Room opens:</b>
-Event <color="red">Strange Patrons</color>
+<b>When the door to the Back Room opens:</b> <color="red">Strange Patrons</color>
 
-<b><color="red">Han Solo</color> is deployed:</b>
-Event <color="red">Time to Run</color>. Choose option 1.
+<b><color="red">Han Solo</color> is deployed:</b> <color="red">Time to Run</color>. Choose option 1.

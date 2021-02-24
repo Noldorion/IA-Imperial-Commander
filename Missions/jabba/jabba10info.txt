@@ -5,10 +5,8 @@ Block access to the door and the terminal.
 The base is sabotaged.
 
 <b>Imperial Victory:</b>
-End of round 6, or all heroes are wounded.
+At the end of Round 6, or all heroes are wounded.
 
-<b>When the Barricade is destroyed:</b>
-Event <color="red">Ambush</color>
+<b>When the Barricade is destroyed:</b> <color="red">Ambush</color>
 
-<b>When the door opens:</b>
-Event <color="red">The Captain's Squad</color>
+<b>When the door opens:</b> <color="red">The Captain's Squad</color>

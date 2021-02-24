@@ -8,16 +8,12 @@ Block access to the structural supports.
 All structural supports are destroyed.
 
 <b>Imperial Victory:</b>
-End of round 7, or all heroes are wounded.
+At the end of Round 7, or all heroes are wounded.
 
-<b>Each time a structural support is destroyed:</b>
-Event <color="red">Collapse</color>
+<b>Each time a structural support is destroyed:</b> <color="red">Collapse</color>
 
-<b>At the end of round 1:</b>
-Event <color="red">Fall Back!</color>
+<b>At the end of Round 1:</b> <color="red">Fall Back!</color>
 
-<b>First time a Rebel figure enters the swamp:</b>
-Event <color="red">Beware of Rancor</color>
+<b>First time a Rebel figure enters the swamp:</b> <color="red">Beware of Rancor</color>
 
-<b>When the door is destroyed:</b>
-Event <color="red">It‘s a Small World</color>
+<b>When the door is destroyed:</b> <color="red">It‘s a Small World</color>

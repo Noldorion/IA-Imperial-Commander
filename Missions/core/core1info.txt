@@ -5,10 +5,8 @@ Block access to terminals and doors.
 All terminals have been investigated. 
 
 <b>Imperial Victory:</b>
-End of round 7, or all heroes are wounded.
+At the end of Round 7, or all heroes are wounded.
 
-<b>Each time a door opens:</b>
-Event <color="red">Defense Protocols</color> (see mission rules)
+<b>Each time a door opens:</b> <color="red">Defense Protocols</color> (see mission rules)
 
-<b>A terminal is investigated:</b>
-Event <color="red">Revelation</color>
+<b>A terminal is investigated:</b> <color="red">Revelation</color>

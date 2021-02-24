@@ -1,4 +1,4 @@
-<b>Mission instructions (add to the top of the instruction list):</b>
+<b>Mission instructions (add to the <color="red">top</color> of the instruction list):</b>
 All figures without "Massive" or "Non-Sentient" gain:
 
-<font="ImperialAssaultSymbols SDF">A</font> Move 2 to discard a terminal with no Healthy Rebels within 2 spaces.
+<font="ImperialAssaultSymbols SDF">A</font> Move 2 to discard a terminal with no healthy Rebels within 2 spaces.

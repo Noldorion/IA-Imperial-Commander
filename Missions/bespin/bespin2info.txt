@@ -1,17 +1,14 @@
 <b>Repositioning Target:</b>
-Move towards a citizen.
+Move toward a citizen.
 
 <b>Rebel Victory:</b>
 <color="red">Bossk</color> is defeated.
 
 <b>Imperial Victory:</b>
-End of round 6, or all heroes are wounded.
+At the end of Round 6, or all heroes are wounded.
 
-<b>Second citizen is freed:</b>
-Event <color="red">Escape Alert</color>
+<b>Second citizen is freed:</b> <color="red">Escape Alert</color>
 
-<b>Blue citizen is freed:</b>
-Event <color="red">Back in Control</color>
+<b>Blue citizen is freed:</b> <color="red">Back in Control</color>
 
-<b>Last citizen is freed:</b>
-Event <color="red">Containment</color>. <color="red">Bossk</color> does not receive movement points after each Rebel activation. Instead, increase each move value in his instructions by 2.
+<b>Last citizen is freed:</b> <color="red">Containment</color>. <color="red">Bossk</color> does not receive movement points after each Rebel activation. Instead, increase each move value in his instructions by 2.

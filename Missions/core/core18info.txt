@@ -5,7 +5,6 @@ Block access to the T-16 Skyhopper.
 <color="red">Luke Skywalker</color> escapes.
 
 <b>Imperial Victory:</b>
-End of round 6, or <color="red">Luke Skywalker</color> is defeated.
+At the end of Round 6, or <color="red">Luke Skywalker</color> is defeated.
 
-<b>When the doors to the Garage open:</b>
-Event <color="red">The Dark Lord</color>
+<b>When the doors to the Garage open:</b> <color="red">The Dark Lord</color>

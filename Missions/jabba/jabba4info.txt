@@ -1,14 +1,12 @@
 <b>Rebel Victory:</b>
-End of round 5.
+At the end of Round 5.
 
 <b>Imperial Victory:</b>
-There are no Healthy heroes on the hangar.
+There are no healthy heroes on the hangar.
 
-<b>At the end of each round after round 1:</b>
+<b>At the end of each Round after Round 1:</b>
 Move each Imperial mission token 3 toward the hangar.
 
-<b>At the end of round 1:</b>
-Event <color="red">Pressing In</color>
+<b>At the end of Round 1:</b> <color="red">Pressing In</color>
 
-<b>At the end of round 2:</b>
-Event <color="red">Heroes and Vilains</color>
+<b>At the end of Round 2:</b> <color="red">Heroes and Vilains</color>

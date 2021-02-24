@@ -13,5 +13,4 @@ A Rebel figure carrying the memory core escapes.
 <b>Imperial Victory:</b>
 The Imperial Officer carrying the memory core escapes, or all heroes are wounded.
 
-<b>First time a door opens:</b>
-Event <color="red">Find the Droid</color>
+<b>First time a door opens:</b> <color="red">Find the Droid</color>

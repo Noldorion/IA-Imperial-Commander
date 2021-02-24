@@ -13,5 +13,4 @@ The heroes have claimed 5 mission tokens.
 <b>Imperial Victory:</b>
 The Empire has claimed 8 mission tokens, or all heroes are wounded.
 
-<b>When the heroes have claimed 4 mission tokens:</b>
-Event <color="red">He's Here</color>
+<b>When the heroes have claimed 4 mission tokens:</b> <color="red">He's Here</color>

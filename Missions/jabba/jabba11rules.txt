@@ -1,10 +1,10 @@
-<b>Mission instructions (add to the top of the instruction list):</b>
-Kallenn gains:
+<b>Mission instructions (add to the <color="red">top</color> of the instruction list):</b>
+<b>Kallenn</b> gains:
 
-<font="ImperialAssaultSymbols SDF">A</font> Move 4 away from the <color="red>Rancor</color>.
+<font="ImperialAssaultSymbols SDF">A</font> Move 4 away from the <color="red">Rancor</color>.
 
-<b><color="red">Elite Protection</color></b>
-At the end of round 1 and 5, choose two options in the following order (without threat cost). At the end of round 3, choose one option.
+<color="red">Elite Protection:</color>
+At the end of Round 1 and 5, choose two options in the following order (without threat cost). At the end of Round 3, choose one option.
 
 <b>If it enables a Massive figure to attack:</b>
 Choose option 3.

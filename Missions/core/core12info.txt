@@ -11,11 +11,8 @@ A hero carrying the formula escapes.
 <b>Imperial Victory:</b>
 All heroes are wounded.
 
-<b>First time the first door opens:</b>
-Event <color="red">Lightly Guarded</color>
+<b>First time the first door opens:</b> <color="red">Lightly Guarded</color>
 
-<b>First time the door to the Hangar opens:</b>
-Event <color="red">Too Quiet</color>
+<b>First time the door to the Hangar opens:</b> <color="red">Too Quiet</color>
 
-<b>First time a hero retrieves the formula:</b>
-Event <color="red">Sound the Alarms</color>
+<b>First time a hero retrieves the formula:</b> <color="red">Sound the Alarms</color>

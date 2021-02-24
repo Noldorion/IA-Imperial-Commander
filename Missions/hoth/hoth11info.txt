@@ -11,7 +11,6 @@ Block access to the command center.
 <b>Ivan Talos</b> is defeated.
 
 <b>Imperial Victory:</b>
-End of round 6, or all heroes are wounded.
+At the end of Round 6, or all heroes are wounded.
 
-<b>When the door opens:</b>
-Event <color="red">Face Off</color> (see mission rules)
+<b>When the door opens:</b> <color="red">Face Off</color> (see mission rules)

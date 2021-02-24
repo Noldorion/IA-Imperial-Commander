@@ -11,10 +11,8 @@ Block access to doors and prisoners.
 The Shuttle launches.
 
 <b>Imperial Victory:</b>
-End of round 6, or all heroes are wounded.
+At the end of Round 6, or all heroes are wounded.
 
-<b>When the door to the Hall opens:</b>
-Event <color="red">Hired Guards</color>
+<b>When the door to the Hall opens:</b> <color="red">Hired Guards</color>
 
-<b>When the door to the Cell opens:</b>
-Event <color="red">Get to the Ship</color>
+<b>When the door to the Cell opens:</b> <color="red">Get to the Ship</color>

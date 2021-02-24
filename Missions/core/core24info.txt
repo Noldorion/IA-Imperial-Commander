@@ -8,10 +8,8 @@ Block access to the terminal and the archive.
 The data core is destroyed.
 
 <b>Imperial Victory:</b>
-End of round 6, or all heroes are wounded.
+At the end of Round 6, or all heroes are wounded.
 
-<b>When the door to the Cell is opened:</b>
-Event <color="red">Finish the Job</color>
+<b>When the door to the Cell is opened:</b> <color="red">Finish the Job</color>
 
-<b>When the door to the Archive opens:</b>
-Event <color="red">Data Core</color>
+<b>When the door to the Archive opens:</b> <color="red">Data Core</color>

@@ -1,4 +1,4 @@
-<b>Mission instructions (add to the top of the instruction list):</b>
+<b>Mission instructions (add to the <color="red">top</color> of the instruction list):</b>
 If the Rebels side with the Rebel Alliance, all Imperial figures without "Non-Sentient" gain:
 
 <font="ImperialAssaultSymbols SDF">A</font> Move A to interact with a non-rigged weak point.

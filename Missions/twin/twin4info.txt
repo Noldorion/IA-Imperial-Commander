@@ -8,13 +8,10 @@ Block access to doors, informants, and terminals.
 All informants and terminals are claimed.
 
 <b>Imperial Victory:</b>
-End of round 7, or all heroes are wounded and <color="red">R2-D2</color> is defeated.
+At the end of Round 7, or all heroes are wounded and <color="red">R2-D2</color> is defeated.
 
-<b>First time a door to the Cantina opens:</b>
-Event <color="red">Cantina Patrol</color>. Perform a random deployment with a maximum threat cost of twice the threat level.
+<b>First time a door to the Cantina opens:</b> <color="red">Cantina Patrol</color>. Perform a random deployment with a maximum threat cost of twice the threat level.
 
-<b>First time a door to the Junk Shop opens:</b>
-Event <color="red">Junk Shop</color>. Perform a random deployment with a maximum threat cost of twice the threat level.
+<b>First time a door to the Junk Shop opens:</b> <color="red">Junk Shop</color>. Perform a random deployment with a maximum threat cost of twice the threat level.
 
-<b>2 informants and/or terminals have been claimed:</b>
-Event <color="red">Reinforcements</color>
+<b>2 informants and/or terminals have been claimed:</b> <color="red">Reinforcements</color>

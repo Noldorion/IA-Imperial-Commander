@@ -11,10 +11,8 @@ Block access to the spice barrels.
 All of the spice has been claimed.
 
 <b>Imperial Victory:</b>
-End of round 5, or all heroes are wounded and <color="red">Chewbacca</color> is defeated.
+At the end of Round 5, or all heroes are wounded and <color="red">Chewbacca</color> is defeated.
 
-<b>First time the keycard is retrieved:</b>
-Event <color="red">Defend the Spice</color>
+<b>First time the keycard is retrieved:</b> <color="red">Defend the Spice</color>
 
-<b>First time a door to the Spice Room opens:</b>
-Event <color="red">The Back Room</color>
+<b>First time a door to the Spice Room opens:</b> <color="red">The Back Room</color>

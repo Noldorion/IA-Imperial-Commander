@@ -1,18 +1,16 @@
 <b>Mission Target:</b>
-Draylen
+<b>Draylen</b>
 
 <b>Repositioning Target:</b>
 Before <color="red">Loyalty Fulfilled</color> is resolved: Block access to the Containment Area.
 After <color="red">Loyalty Fulfilled</color> is resolved: Block access to the Evacuation Point.
 
 <b>Rebel Victory:</b>
-Draylen escapes.
+<b>Draylen</b> escapes.
 
 <b>Imperial Victory:</b>
-Draylen is executed, or Draylen is defeated.
+<b>Draylen</b> is executed, or <b>Draylen</b> is defeated.
 
-<b>First door opens:</b>
-Event <color="red">Impassable</color>
+<b>First door opens:</b> <color="red">Impassable</color>
 
-<b>When the door to the Containment Area opens:</b>
-Event <color="red">Loyalty Fulfilled</color>
+<b>When the door to the Containment Area opens:</b> <color="red">Loyalty Fulfilled</color>

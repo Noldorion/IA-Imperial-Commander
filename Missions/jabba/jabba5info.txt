@@ -10,8 +10,6 @@ Claim more spice barrels than the Empire.
 <b>Imperial Victory:</b>
 Claim more spice barrels than the Rebels.
 
-<b>At the end of round 2:</b>
-Event <color="red">Unleashed</color>
+<b>At the end of Round 2:</b> <color="red">Unleashed</color>
 
-<b>At the end of round 4:</b>
-Event <color="red">Hired Muscle</color>
+<b>At the end of Round 4:</b> <color="red">Hired Muscle</color>

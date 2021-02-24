@@ -8,10 +8,8 @@ Block access to the Rancor eggs.
 Heroes have claimed 7 Rancor eggs.
 
 <b>Imperial Victory:</b>
-End of round 6, or all heroes are wounded.
+At the end of Round 6, or all heroes are wounded.
 
-<b>At the end of the round in which a Rebel figure retrieves a Rancor egg for the first time:</b>
-Event <color="red">Mother's Domain</color>
+<b>At the end of the Round in which a Rebel figure retrieves a Rancor egg for the first time:</b> <color="red">Mother's Domain</color>
 
-<b>First time a barricade is destroyed:</b>
-Event <color="red">Imperial Operation</color>
+<b>First time a barricade is destroyed:</b> <color="red">Imperial Operation</color>

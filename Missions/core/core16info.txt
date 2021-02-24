@@ -9,10 +9,8 @@ After the event <color="red">The Virus</color> is resolved: Be adjacent to the n
 Heroes claim 12 mission tokens.
 
 <b>Imperial Victory:</b>
-End of Round 8,  all terminals have been disabled, or all heroes are wounded.
+At the end of Round 8, all terminals have been disabled, or all heroes are wounded.
 
-<b>First time a door opens:</b>
-Event <color="red">Clear the Area</color>
+<b>First time a door opens:</b> <color="red">Clear the Area</color>
 
-<b>When the virus is uploaded:</b>
-Event <color="red">The Virus</color>
+<b>When the virus is uploaded:</b> <color="red">The Virus</color>

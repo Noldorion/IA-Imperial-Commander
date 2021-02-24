@@ -5,13 +5,10 @@ Block access to the explosives.
 The heroes have collectively claimed 6 explosives and have been extracted.
 
 <b>Imperial Victory:</b>
-End of round 6, or all heroes are wounded.
+At the end of Round 6, or all heroes are wounded.
 
-<b>At the end of round 4:</b>
-Event <color="red">Stop the Extraction</color>
+<b>At the end of Round 4:</b> <color="red">Stop the Extraction</color>
 
-<b>When the first door opens:</b>
-Event <color="red">Hired Help</color>
+<b>When the first door opens:</b> <color="red">Hired Help</color>
 
-<b>When the second door opens:</b>
-Event <color="red">Bomb Shed</color>
+<b>When the second door opens:</b> <color="red">Bomb Shed</color>

@@ -5,13 +5,10 @@ Block access to terminals, doors, and beacons.
 All beacons are destroyed and <color="red">Captain Terro</color> is defeated.
 
 <b>Imperial Victory:</b>
-End of round 7, or all heroes are wounded.
+At the end of Round 7, or all heroes are wounded.
 
-<b>First time a door opens:</b>
-Event <color="red">Captain's Orders</color>
+<b>First time a door opens:</b> <color="red">Captain's Orders</color>
 
-<b>Captain Terro is defeated:</b>
-Event <color="red">Retreat</color>
+<b>Captain Terro is defeated:</b> <color="red">Retreat</color>
 
-<b>Second time a door opens:</b>
-Event <color="red">Sandstorm</color>
+<b>Second time a door opens:</b> <color="red">Sandstorm</color>

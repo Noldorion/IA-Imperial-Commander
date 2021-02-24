@@ -5,10 +5,8 @@ Closest captive not adjacent to an Imperial figure.
 All captives are adjacent to an exit.
 
 <b>Imperial Victory:</b>
-End of round 6, or all heroes are wounded.
+At the end of Round 6, or all heroes are wounded.
 
-<b>When the door to the Cellar is opened:</b>
-Event <color="red">Arrest</color>
+<b>When the door to the Cellar is opened:</b> <color="red">Arrest</color>
 
-<b>When the last door is opened:</b>
-Event <color="red">Stop Them!</color>
+<b>When the last door is opened:</b> <color="red">Stop Them!</color>

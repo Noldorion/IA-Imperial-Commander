@@ -8,11 +8,8 @@ All heroes depart.
 <b>Imperial Victory:</b>
 All heroes are wounded.
 
-<b>At the end of each round:</b>
-Event <color="red">Subdue</color> (see mission rules)
+<b>At the end of each Round:</b> <color="red">Subdue</color> (see mission rules)
 
-<b>2 power stations are destroyed:</b>
-Event <color="red">Arrival</color>
+<b>2 power stations are destroyed:</b> <color="red">Arrival</color>
 
-<b>At the end of round 5:</b>
-Event <color="red">Raise the Alarms</color>
+<b>At the end of Round 5:</b> <color="red">Raise the Alarms</color>

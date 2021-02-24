@@ -8,13 +8,10 @@ Block access to the doors.
 <color="red">Agent Blaise</color> is frozen in carbonite.
 
 <b>Imperial Victory:</b>
-End of round 7, or all heroes are wounded.
+At the end of Round 7, or all heroes are wounded.
 
-<b>When the door to the Cell opens:</b>
-Event <color="red">A Familiar Face</color>
+<b>When the door to the Cell opens:</b> <color="red">A Familiar Face</color>
 
-<b>When the door to the Command Center opens:</b>
-Event <color="red">Hostage Situation</color>
+<b>When the door to the Command Center opens:</b> <color="red">Hostage Situation</color>
 
-<b>When the last door opens:</b>
-Event <color="red">Eleventh Hour</color>
+<b>When the last door opens:</b> <color="red">Eleventh Hour</color>

@@ -8,13 +8,10 @@ Block access to the engine.
 There are no Imperial figures on the Spaceport after resolving the event <color="red">Captain‘s Orders</color>.
 
 <b>Imperial Victory:</b>
-End of round 7, or all heroes are wounded.
+At the end of Round 7, or all heroes are wounded.
 
-<b>At the end of round 1:</b>
-Event <color="red">Boarding Party</color>
+<b>At the end of Round 1:</b> <color="red">Boarding Party</color>
 
-<b>At the end of the round in which the engine is destroyed:</b>
-Event <color="red">High Ground</color>
+<b>At the end of the Round in which the engine is destroyed:</b> <color="red">High Ground</color>
 
-<b>When the door is opened:</b>
-Event <color="red">Captain's Orders</color> (see rules)
+<b>When the door is opened:</b> <color="red">Captain's Orders</color> (see rules)

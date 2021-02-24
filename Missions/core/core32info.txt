@@ -5,7 +5,6 @@ Block access to the office.
 All heroes depart.
 
 <b>Imperial Victory:</b>
-End of round 6, or all heroes are wounded.
+At the end of Round 6, or all heroes are wounded.
 
-<b>Door to the Office opens:</b>
-Event <color="red">Hunted Down</color>
+<b>Door to the Office opens:</b> <color="red">Hunted Down</color>

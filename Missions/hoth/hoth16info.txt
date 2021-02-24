@@ -14,13 +14,10 @@ Block access to the doors.
 The <b>Krandt Brothers</b> yield to interrogation.
 
 <b>Imperial Victory:</b>
-End of round 7, or all heroes are wounded.
+At the end of Round 7, or all heroes are wounded.
 
-<b>When the first door opens:</b>
-Event <color="red">Assault</color>
+<b>When the first door opens:</b> <color="red">Assault</color>
 
-<b>When the second door opens:</b>
-Event <color="red">Bodyguards</color>
+<b>When the second door opens:</b> <color="red">Bodyguards</color>
 
-<b>When the third door opens:</b>
-Event <color="red">Negotiations</color>
+<b>When the third door opens:</b> <color="red">Negotiations</color>

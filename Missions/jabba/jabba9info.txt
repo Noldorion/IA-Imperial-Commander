@@ -5,16 +5,12 @@ Block access to <color="red">Jabba the Hutt</color>.
 <color="red">Jabba the Hutt</color> is defeated.
 
 <b>Imperial Victory:</b>
-End of round 8, or all heroes are wounded.
+At the end of Round 8, or all heroes are wounded.
 
-<b>At the end of round 1:</b>
-Event <color="red">Legions of Defenders</color>
+<b>At the end of Round 1:</b> <color="red">Legions of Defenders</color>
 
-<b>When the Throne Room door opens:</b>
-Event <color="red">Storming In</color>
+<b>When the Throne Room door opens:</b> <color="red">Storming In</color>
 
-<b>Hero negotiates with Jabba the Hutt:</b>
-Event <color="red">Hutt Retreat</color>
+<b>Hero negotiates with Jabba the Hutt:</b> <color="red">Hutt Retreat</color>
 
-<b>Rancor is defeated:</b>
-Event <color="red">Final Showdown</color>
+<b>Rancor is defeated:</b> <color="red">Final Showdown</color>

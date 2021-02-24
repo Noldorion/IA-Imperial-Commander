@@ -9,13 +9,10 @@ After <color="red">Asset Secured</color> is resolved: Block access to the Shuttl
 A Rebel figure carrying the documents is on the Shuttle at the start of the Status Phase.
 
 <b>Imperial Victory:</b>
-End of round 6, or all heroes are wounded.
+At the end of Round 6, or all heroes are wounded.
 
-<b>At the end of round 2:</b>
-Event <color="red">Private Security</color>
+<b>At the end of Round 2:</b> <color="red">Private Security</color>
 
-<b>When the door opens:</b>
-Event <color="red">Face to Face</color>
+<b>When the door opens:</b> <color="red">Face to Face</color>
 
-<b>Safe is cracked:</b>
-Event <color="red">Asset Secured</color>
+<b>Safe is cracked:</b> <color="red">Asset Secured</color>
