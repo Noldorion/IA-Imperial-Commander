@@ -1,5 +1,5 @@
 <b>Special Setup:</b>
-Do not deploy the <color="red">Imperial Officer</color> as a starting group. Simply place his figure on the designated space.
+Do not deploy the <color="red">Imperial Officer</color> as a Initial group. Simply place his figure on the designated space.
 
 <b>Repositioning Target:</b>
 Block access to the terminals.
