@@ -5,7 +5,7 @@ Echo Base Trooper
 Block access to the power stations.
 
 <b>Rebel Victory:</b>
-All Imperial figures are defeated after <color="red">Fight Them Back</color> has been resolved.
+All Imperial figures are defeated after <color="red">Fight Them Back</color> is resolved.
 
 <b>Imperial Victory:</b>
 All heroes are wounded.

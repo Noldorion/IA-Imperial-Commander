@@ -3,7 +3,7 @@ Refer to the mission rules for instructions for <color="red">Darth Vader</color>
 
 <b>Repositioning Target:</b>
 Block access to the hiding places.
-<color="red">Darth Vader</color>: Move toward the shard / the entrance
+<color="red">Darth Vader</color>: Move toward the shard / the Entrance
 
 <b>Rebel Victory:</b>
 <color="red">Darth Vader</color> is defeated.

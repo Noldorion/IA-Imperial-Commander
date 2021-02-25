@@ -3,7 +3,7 @@
 
 <b>Repositioning Target:</b>
 Block access to the door to the Back Room.
-After the event <color="red">Time to Run</color> is resolved, block access to the entrance.
+After the event <color="red">Time to Run</color> is resolved, block access to the Entrance.
 
 <b>Rebel Victory:</b>
 <color="red">Han Solo</color> escapes.

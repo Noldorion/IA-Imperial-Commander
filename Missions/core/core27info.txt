@@ -5,7 +5,7 @@ Refer to the mission rules for instructions for the Imperial Officer.
 Hero carrying the memory core.
 
 <b>Repositioning Target:</b>
-Block access to the memory core and the entrance.
+Block access to the memory core and the Entrance.
 
 <b>Rebel Victory:</b>
 A Rebel figure carrying the memory core escapes.

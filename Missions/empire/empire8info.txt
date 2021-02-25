@@ -1,5 +1,5 @@
 <b>Special Setup:</b>
-Before <color="red">The Ambush</color> has been resolved: Switch "Deploy Groups" to off.
+Before <color="red">The Ambush</color> is resolved: Switch "Deploy Groups" to off.
 Do not decrease <font="ImperialAssaultSymbols SDF">D</font> when it exceeds 12.
 
 <b>Repositioning Target:</b>

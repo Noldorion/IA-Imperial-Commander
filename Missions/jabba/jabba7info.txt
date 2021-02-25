@@ -11,4 +11,4 @@ At the end of Round 8, or all heroes are wounded.
 
 <b>Rebel figure interacts with the red terminal:</b> <color="red">Khetanna</color>
 
-<b>At the end of each Round after <color="red">Khetanna</color> has been resolved:</b> If the Empire controls the Main Gun, choose the space adjacent to the most Rebels to fire the gun. Shots from the Main Gun do not damage Imperial figures.
+<b>At the end of each Round after <color="red">Khetanna</color> is resolved:</b> If the Empire controls the Main Gun, choose the space adjacent to the most Rebels to fire the gun. Shots from the Main Gun do not damage Imperial figures.

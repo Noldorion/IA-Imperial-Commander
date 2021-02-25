@@ -1,6 +1,6 @@
 <b>Repositioning Target:</b>
 Block access to power stations. 
-After all power stations have been destroyed: Block access to the entrance.
+After all power stations have been destroyed: Block access to the Entrance.
 
 <b>Rebel Victory:</b>
 All heroes depart.

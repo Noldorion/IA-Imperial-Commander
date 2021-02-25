@@ -9,7 +9,7 @@ At the end of Round 7, or all heroes are wounded.
 
 <b>First time a Rebel figure enters the Corridor:</b> <color="red">Bombardment</color>
 
-<b>At the end of each Round after <color="red">Bombardment</color> has been resolved:</b> Bombard the structure. See mission rules for specifics.
+<b>At the end of each Round after <color="red">Bombardment</color> is resolved:</b> Bombard the structure. See mission rules for specifics.
 
 <b>At the end of the Round in which a Rebel figure enters the Corridor for the first time:</b> <color="red">Pursuit</color>
 
