@@ -12,6 +12,6 @@ At the end of Round 7, or all heroes are wounded.
 
 <b>At the end of Round 1:</b> <color="red">Boarding Party</color>
 
-<b>At the end of the Round in which the engine is destroyed:</b> <color="red">High Ground</color>
+<b>At the end of the round in which the engine is destroyed:</b> <color="red">High Ground</color>
 
 <b>When the door is opened:</b> <color="red">Captain's Orders</color> (see rules)

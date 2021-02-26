@@ -8,7 +8,7 @@ Add all figures with "Massive" to the ignored groups.
 Block access to the terminals.
 
 <b>Rebel Victory:</b>
-No <b>Imperial AT-AT</b> left on the BattlegRound.
+No <b>Imperial AT-AT</b> left on the Battleground.
 
 <b>Imperial Victory:</b>
 A <b>Rebel AT-AT</b> is defeated, end of Round 5 before <color="red">Commandeered</color> is resolved, or all heroes are wounded.

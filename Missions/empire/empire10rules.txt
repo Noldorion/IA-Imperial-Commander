@@ -1,7 +1,7 @@
 <b>Mission instructions (add to the <color="red">bottom</color> of the instruction list):</b>
 <color="red">Maul</color> gains:
 
-■ If the Round number is even: Attack <<the closest healthy Rebel>>. Before this attack, if more than 1 Rebel is within 2 spaces and in line of sight, this figure gains Reach and Cleave 2. Otherwise, add 1 green die to the attack pool.
+■ If the round number is even: Attack <<the closest healthy Rebel>>. Before this attack, if more than 1 Rebel is within 2 spaces and in line of sight, this figure gains Reach and Cleave 2. Otherwise, add 1 green die to the attack pool.
 
 <color="red">Backed into a Corner:</color>
 <color="red">Maul</color> gains +2 <font="ImperialAssaultSymbols SDF">G</font>

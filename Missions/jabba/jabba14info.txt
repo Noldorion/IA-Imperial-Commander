@@ -9,7 +9,7 @@ At the end of Round 6, or all heroes are wounded.
 
 <b>At the end of Round 2:</b> <color="red">Facility Breach</color>
 
-<b>Each time a blue data store is revealed:</b> <color="red">On Their Heels</color>. Choose the Imperial figures that are furthest from the heroes which have not been activated in this Round and are not already within 4 spaces of them.
+<b>Each time a blue data store is revealed:</b> <color="red">On Their Heels</color>. Choose the Imperial figures that are furthest from the heroes which have not been activated in this round and are not already within 4 spaces of them.
 
 <b>Each time a red data store is revealed:</b> <color="red">Alarm Triggered</color>
 

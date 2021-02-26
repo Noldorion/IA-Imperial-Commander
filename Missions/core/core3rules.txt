@@ -1,7 +1,7 @@
 <b>Mission instructions (add to the <color="red">top</color> of the instruction list):</b>
 All <b>Imperial Officers</b> and <b>Probe Droids</b> gain:
 
-■ Interact with a terminal to increase <font="ImperialAssaultSymbols SDF">D</font> by 2 (only once per Round per terminal).
+■ Interact with a terminal to increase <font="ImperialAssaultSymbols SDF">D</font> by 2 (only once per round per terminal).
 
 As long as the door is closed, <b>Weiss</b> gains:
 

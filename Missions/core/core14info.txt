@@ -2,7 +2,7 @@
 Refer to the mission rules for instructions for <color="red">Darth Vader</color>.
 
 <b>Special Rules:</b>
-<color="red">Darth Vader</color> gains +1 <font="ImperialAssaultSymbols SDF">G</font>. He does not need to interact with the sabotage site to locate Luke. He just needs to be adjacent to the sabotage site at the end of the Round.
+<color="red">Darth Vader</color> gains +1 <font="ImperialAssaultSymbols SDF">G</font>. He does not need to interact with the sabotage site to locate Luke. He just needs to be adjacent to the sabotage site at the end of the round.
 
 <b>Repositioning Target:</b>
 <color="red">Darth Vader</color>, once all heroes are wounded: Be adjacent to the sabotage site.

@@ -12,4 +12,4 @@ The Empire has claimed 7 evacuees.
 
 <b>At the end of Round 2:</b> <color="red">The General</color>
 
-<b>At the end of Round 5:</b> <color="red">Reinforcements</color>. From now on, right before clicking "End Round", increase <font="ImperialAssaultSymbols SDF">D</font> by 3.
+<b>At the end of Round 5:</b> <color="red">Reinforcements</color>. From now on, right before clicking "End round", increase <font="ImperialAssaultSymbols SDF">D</font> by 3.
