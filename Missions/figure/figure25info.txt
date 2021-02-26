@@ -11,7 +11,7 @@ All heroes are wounded.
 
 <b>At the end of Round 1:</b> <color="red>Surrounded</color>
 
-<b>At the end of Round 3, or when the first barricade is destroyed:</b> <color="red">Snipers</color>. Choose the healthy Rebel with the least <font="ImperialAssaultSymbols SDF">H</font> remaining. The event will trigger at the end of each Round.
+<b>At the end of Round 3, or when the first barricade is destroyed:</b> <color="red">Snipers</color>. Choose the healthy Rebel with the least <font="ImperialAssaultSymbols SDF">H</font> remaining. This event will trigger at the end of each Round.
 
 <b>When the first barricade is destroyed:</b> <color="red">Deadly Alliance</color>
 

@@ -13,6 +13,6 @@ The shuttle launches.
 <b>Imperial Victory:</b>
 At the end of Round 6, <b>Senator Feralo</b> is arrested, or all heroes are wounded.
 
-<b>The first time a Rebel figure is on the Roof:</b> <color="red">Backup has Arrived</color>. From now on, distribute deployments evenly between the Roof and the Penthouse.
+<b>First time a Rebel figure is on the Roof:</b> <color="red">Backup has Arrived</color>. From now on, distribute deployments evenly between the Roof and the Penthouse.
 
-<b>The first time a Rebel figure enters the Shuttle:</b> <color="red">Secure the Shuttle</color> (see mission rules)
+<b>First time a Rebel figure enters the Shuttle:</b> <color="red">Secure the Shuttle</color> (see mission rules)

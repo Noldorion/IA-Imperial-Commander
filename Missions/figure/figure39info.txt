@@ -1,12 +1,23 @@
+<b>Information:</b>
+Refer to the mission rules for instructions for the <b>E-XD</b>. 
+
+<b>Special Setup:</b>
+Deploy a Custom Group as the <b>E-XD</b>.
+
+<b>Special Rules:</b>
+When the <b>E-XD</b> is defeated, do not mark it as defeated in the app. If it activates before it is redeployed, ignore its activation and proceed to the next Imperial activation.
+
 <b>Repositioning Target:</b>
-Block access to the data core.
+Block access to the <b>E-XD</b>.
 
 <b>Rebel Victory:</b>
-The data core is destroyed.
+The tracking beacon is placed.
 
 <b>Imperial Victory:</b>
-At the end of Round 5, or all heroes are wounded.
+At the end of Round 6, or all heroes are wounded.
 
-<b>First time a door to the Hangar opens:</b> <color="red">Guarded</color>
+<b>At the end of Round 2:</b> <color="red">Call for Backup</color>
 
-<b>At the end of each Round, and the first time a door to the Hangar opens:</b> <color="red">Reactive Defenses</color>. Shuffle the remaining neutral mission tokens facedown. Choose one and place it face up near a closed door with the least amount of neutral mission tokens near it. Resolve any effect as indicated by the event text.
+<b>When the E-XD is defeated:</b> <color="red">Runaway Droid</color>
+
+<b>When the door opens:</b> <color="red">Follow the Source</color>. The <b>E-XD</b> gains +1 <font="ImperialAssaultSymbols SDF">G</font>. <font="ImperialAssaultSymbols SDF">D</font> cannot be spent to improve its defense.

@@ -11,6 +11,6 @@ At the end of Round 6 if not all heroes have departed, or all heroes are wounded
  
 <b>The first and second time a hero interacts with a terminal:</b> <color="red">Cornered</color>
  
-<b>The first time the Rebels claim a terminal:</b> <color="red">Roger, Roger!</color>
+<b>First time the Rebels claim a terminal:</b> <color="red">Roger, Roger!</color>
  
 <b>When the door opens:</b> <color="red">Extraction</color>

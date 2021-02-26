@@ -1,5 +1,5 @@
 <b>Mission Target:</b>
-Hero carrying the formula.
+Hero carrying the formula
 
 <b>Repositioning Target:</b>
 No hero is carrying the formula: Block access to the formula.

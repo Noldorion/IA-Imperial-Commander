@@ -1,16 +1,17 @@
-<b>Mission Target:</b>
-Rebel Trooper
-
 <b>Repositioning Target:</b>
-Block access to the mission tokens.
+Block access to the Wookiees and the Extraction Zone.
+The <b>Sentry Trooper</b> always tries to stay in the Extraction Zone. 
 
 <b>Rebel Victory:</b>
-2 Rebel Troopers escape.
+The heroes are extracted.
 
 <b>Imperial Victory:</b>
-2 Rebel Troopers are defeated, or all heroes are wounded.
+At the end of Round 6, or all heroes are wounded.
 
-<b>Each time a mission token is revealed:</b> <color="red">The Squad</color>. When the yellow token is revealed, the <color="red">Imperial Officer</color> interrupts to move 2 and attack <<a Rebel Trooper>>.
+<b>At the end of Round 1:</b> <color="red">Imperial Thugs</color>
 
-<b>At the end of each Round, starting with Round 4:</b>
-Resolve the event in the Mission Briefing. Choose tokens clockwise, starting with the one to the bottom right.
+<b>First time a Rebel figure enters a space with a rope ladder:</b> <color="red">Overkill</color>. Deploy the figure on the yellow point closest to that space. If it is not within line of sight of a Rebel figure, it interrupts to move 2 into line of sight.
+
+<b>When the first Wookiee is claimed:</b> <color="red">Escape Route</color>
+
+<b>When all Wookiees have been claimed:</b> <color="red">Cut Off</color>

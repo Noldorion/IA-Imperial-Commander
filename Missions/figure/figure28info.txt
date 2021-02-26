@@ -1,6 +1,3 @@
-<b>Mission Target:</b>
-<color="red">Lando Calrissian</color>
-
 <b>Repositioning Target:</b>
 Block access to the terminals.
 

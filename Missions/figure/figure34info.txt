@@ -1,6 +1,3 @@
-<b>Mission Target:</b>
-<color="red">Echo Base Troopers</color>
-
 <b>Repositioning Target:</b>
 Before <color="red">Stabilization</color> is resolved: Block access to the doors.
 After <color="red">Stabilization</color> is resolved: Block access to the stabilizers.

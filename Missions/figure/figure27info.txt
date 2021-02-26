@@ -13,4 +13,4 @@ At the end of Round 7, <color="red">C-3PO</color> is defeated, or all heroes are
 
 <b>When 2 terminals are discarded:</b> <color="red">Alarms</color>
 
-<b>The first time a door to the Storage Room or Operations Room opens:</b> <color="red">Guards</color>
+<b>First time a door to the Storage Room or Operations Room opens:</b> <color="red">Guards</color>

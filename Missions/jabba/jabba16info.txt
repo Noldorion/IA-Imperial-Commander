@@ -1,5 +1,5 @@
 <b>Mission Target:</b>
-Hero carrying a Rancor egg.
+Hero carrying a Rancor egg
 
 <b>Repositioning Target:</b>
 Block access to the Rancor eggs.

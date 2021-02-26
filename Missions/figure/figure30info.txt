@@ -1,6 +1,3 @@
-<b>Mission Target:</b>
-<color="red">Han Solo</color>
-
 <b>Repositioning Target:</b>
 Before all caches have been retrieved: Block access to the caches.
 After all caches have been retrieved: Block access to the Entrance.

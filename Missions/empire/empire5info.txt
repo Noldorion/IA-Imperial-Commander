@@ -13,7 +13,7 @@ At the end of Round 6 if the heroes have not triggered <color="red">The Dark Lor
 
 <b>At the end of Round 2:</b> <color="red">Vader‘s Fist</color>
  
-<b>The first time a door opens:</b> <color="red">Back Guard</color>
+<b>First time a door opens:</b> <color="red">Back Guard</color>
  
 <b>When the second hiding place is searched:</b> <color="red">Booby Trap</color>
  

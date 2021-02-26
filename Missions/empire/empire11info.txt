@@ -16,7 +16,7 @@ The contact escapes, end of Round 6, or all heroes are wounded.
 
 <b>At the end of Round 2:</b> <color="red">Clawdite in the Crowd</color>
  
-<b>The first time a door opens:</b> <color="red">Clawdite Behind the Counter</color>
+<b>First time a door opens:</b> <color="red">Clawdite Behind the Counter</color>
  
 <b>When contact is made:</b> <color="red">Rendezvous</color>
  

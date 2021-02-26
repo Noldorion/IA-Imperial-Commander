@@ -11,6 +11,6 @@ At the end of Round 6, or all heroes are wounded.
 
 <b>At the end of Round 2:</b> <color="red">A Rumble in the Sand</color>
 
-<b>The first time a hero claims a terminal:</b> <color="red">Alarm</color>
+<b>First time a hero claims a terminal:</b> <color="red">Alarm</color>
 
 <b>When the heroes have claimed 3 terminals:</b> <color="red">Reinforcements</color>

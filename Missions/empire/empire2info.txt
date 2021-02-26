@@ -14,6 +14,6 @@ At the end of Round 6, or all heroes are wounded.
 
 <b>When the heroes interviewed two informants:</b> <color="red">Halfway there</color>
 
-<b>The first time a door opens:</b> <color="red">Garrison</color> (see mission rules)
+<b>First time a door opens:</b> <color="red">Garrison</color> (see mission rules)
 
 <b>When the Diner is cleared:</b> <color="red">Recorded</color>

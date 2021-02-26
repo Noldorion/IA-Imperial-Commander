@@ -1,6 +1,3 @@
-<b>Mission Target:</b>
-Rebel figure adjacent to <color="red">Agent Blaise</color>
-
 <b>Repositioning Target:</b>
 Block access to the doors.
 

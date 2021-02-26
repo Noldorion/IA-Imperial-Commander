@@ -1,6 +1,3 @@
-<b>Mission Target:</b>
-Echo Base Trooper
-
 <b>Repositioning Target:</b>
 Block access to the power stations.
 

@@ -8,5 +8,5 @@ The <color="red">Jawa Scavenger</color> gains:
 <font="ImperialAssaultSymbols SDF">A</font> When carrying a terminal, move 6 toward the Sandcrawler. Otherwise, move 2 toward the next terminal.
 ■ When adjacent to a terminal, retrieve the terminal.
 ■ When on the Sandcrawler with a terminal, hide a terminal.
-■ When on the Sandcrawler, roll 1 yellow die. Accuracy 0: Move the Sandcrawler to the left Sand Dune. Accuracy 1: Move the Sandcrawler to the central Sand Dune. Accuracy 2: Move the Sandcrawler to the right Sand Dune.
-■ TAKE COVER: If there are no Rebels within 2 spaces, recover 2 H.
+■ When on the Sandcrawler, roll 1 yellow die. Accuracy 0: Move the Sandcrawler to the left Sand Dune; Accuracy 1: Move the Sandcrawler to the central Sand Dune; Accuracy 2: Move the Sandcrawler to the right Sand Dune.
+■ TAKE COVER: If there are no Rebels within 2 spaces, recover 2 <font="ImperialAssaultSymbols SDF">H</font>.

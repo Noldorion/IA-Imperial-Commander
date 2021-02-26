@@ -1,9 +1,6 @@
 <b>Special Rules:</b>
 The <color="red">Wampa</color> can be redeployed.
 
-<b>Mission Target:</b>
-Echo Base Troopers
-
 <b>Repositioning Target:</b>
 Block access to the survivor.
 

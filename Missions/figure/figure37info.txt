@@ -1,13 +1,18 @@
-<b>Special Rules:</b>
-Imperial figures treat Rebel mission tokens as doors, if necessary.
+<b>Information:</b>
+Refer to the mission rules for instructions for <color="red">Thrawn</color>.
 
 <b>Repositioning Target:</b>
-Block access to the neutral mission token and the terminal.
+Before <color="red">What You Seek</color> is resolved: Block access to the security stations.
+After <color="red">What You Seek</color> is resolved: Block access to the terminals.
 
 <b>Rebel Victory:</b>
-All heroes depart the map.
+All terminals are destroyed.
 
 <b>Imperial Victory:</b>
-All heroes are wounded.
+At the end of Round 6, or all heroes are wounded.
 
-<b>When all heroes flip their item cards face up:</b> <color="red">Escape</color>
+<b>At the end of Round 1:</b> <color="red">Personal Guards</color>
+
+<b>When the first security station is destroyed:</b> <color="red">Alarm Systems</color>
+
+<b>First time a door opens:</b> <color="red">What You Seek</color>

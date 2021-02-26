@@ -2,7 +2,7 @@
 Refer to the mission rules for instructions for <color="red">Emperor Palpatine</color>.
 
 <b>Mission Target:</b>
-Hero carrying the shard.
+Hero carrying the shard
 
 <b>Repositioning Target:</b>
 Before <color="red">The Power of the Dark Side</color> is resolved: Block access to the terminals and the doors.

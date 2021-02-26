@@ -1,6 +1,3 @@
-<b>Mission Target:</b>
-Wookiee Warriors
-
 <b>Repositioning Target:</b>
 Block access to the terminals.
 
