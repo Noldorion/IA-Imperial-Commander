@@ -7,10 +7,10 @@ Star Wars, the Star Wars logo, and all other logos, characters, artwork, stories
 **Imperial Commander** is a non-profit project, available free of charge. It is in no way affiliated with or endorsed by Lucasfilm Limited, Disney, Fantasy Flight Games or any of their subsidiaries, employees, or associates.
 
 ## Downloads
-[Windows](https://github.com/GlowPuff/ImperialCommander/releases) - Click on **Assets** and download **BUILD.zip**, extract to any folder, then double-click **Imperial Commander.exe** to start the app.<br>
-[Android](https://github.com/GlowPuff/ImperialCommander/releases) - Click on **Assets** and download **ImperialCommander.apk**. Install via a file manager and allow the installation of apps from unknown sources.<br>
-[MacOS](https://drive.google.com/file/d/15DncIpOx7rZBtS8d9rGrnKQTDDobHE66/view?usp=sharing)<br>
-[Linux](https://drive.google.com/file/d/12GyPreL6v_ezBgWlmmSa9kam8DsEQW-f/view?usp=sharing) - If you are having issues, right-click **File** --> **Permissions** --> **Program** and check **Allow this file to run as a program**.<br>
+* **[Windows](https://github.com/GlowPuff/ImperialCommander/releases)** - Click on **Assets** and download **BUILD.zip**, extract to any folder, then double-click **Imperial Commander.exe** to start the app.<br>
+* **[Android](https://github.com/GlowPuff/ImperialCommander/releases)** - Click on **Assets** and download **ImperialCommander.apk**. Install via a file manager and allow the installation of apps from unknown sources.<br>
+* **[MacOS](https://drive.google.com/file/d/15DncIpOx7rZBtS8d9rGrnKQTDDobHE66/view?usp=sharing)**<br>
+* **[Linux](https://drive.google.com/file/d/12GyPreL6v_ezBgWlmmSa9kam8DsEQW-f/view?usp=sharing)** - If you are having issues, right-click **File** --> **Permissions** --> **Program** and check **Allow this file to run as a program**.<br>
 
 ## Manual and Documentation
 [Download Quick Guide](https://boardgamegeek.com/filepage/218088/imperial-commander-unofficial-companion-app-solo-c)<br>
