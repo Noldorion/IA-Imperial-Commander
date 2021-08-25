@@ -14,4 +14,5 @@ Star Wars, the Star Wars logo, and all other logos, characters, artwork, stories
 
 ## Manual and Documentation
 [Download Quick Guide](https://boardgamegeek.com/filepage/218088/imperial-commander-unofficial-companion-app-solo-c)<br>
-[Full documentation](https://github.com/Noldorion/IA-Imperial-Commander/wiki)
+[Full documentation](https://github.com/Noldorion/IA-Imperial-Commander/wiki)<br>
+[YouTube tutorials](https://www.youtube.com/channel/UC8mzMnsLZPgzQW2X2EkCR-Q)
